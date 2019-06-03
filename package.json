@@ -1,0 +1,9 @@
+{
+  "name": "gh.github.io",
+  "version": "0.0.1",
+  "description": "personal website",
+  "main": "index.js",
+  "repository": "git@github.com:gh1031/gh.github.io.git",
+  "author": "gh1031 <1051421758@qq.com>",
+  "license": "MIT"
+}
